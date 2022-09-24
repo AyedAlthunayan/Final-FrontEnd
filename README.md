@@ -1,68 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Name
+The title of project is Qaymni
 
-## Available Scripts
 
-In the project directory, you can run:
+##Description
+currently taking a particular professor's course may post a rating and review of any professor that is already listed on the site. Furthermore, users may create a listing for any individual not already listed. To be posted, a rater must rate the course and/or professor on a 1-5 scale in the following categories: "overall quality" and "level of difficulty".!
 
-### `npm start`
+##Team members names
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Ayed alshammari , khalid naif , meshal alrewaished
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+##BackEnd 
 
-### `npm test`
+https://ratingprofessor.herokuapp.com/api/v1/student
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#FrontEnd
 
-### `npm run build`
+https://gilded-phoenix-1e268a.netlify.app/login 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##Image
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+https://www11.0zz0.com/2022/09/24/19/904669606.jpg 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+https://www11.0zz0.com/2022/09/24/19/957131992.jpg 
 
-### `npm run eject`
+https://www11.0zz0.com/2022/09/24/19/153055568.jpg 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+https://www13.0zz0.com/2022/09/24/19/475784240.jpg 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
